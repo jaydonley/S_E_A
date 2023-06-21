@@ -1272,8 +1272,6 @@ section {
 
 .team .member .member-info-content {
   position: absolute;
-  left: 50px;
-  right: 0;
   bottom: 0;
   transition: bottom 0.4s;
 }
