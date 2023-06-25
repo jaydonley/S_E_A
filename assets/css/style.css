@@ -1818,5 +1818,11 @@ section {
 
 
 
-
+#kobImage{
+  
+    max-width: 500px;
+    max-height: auto;
+    overflow: hidden;
+  padding-left: 5rem;
+}
 
