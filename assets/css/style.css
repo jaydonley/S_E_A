@@ -380,7 +380,7 @@ h6 {
   transition-property: opacity;
   background-position: center top;
 }
-
+/* 
 #hero .carousel-inner .carousel-item,
 #hero .carousel-inner .active.carousel-item-start,
 #hero .carousel-inner .active.carousel-item-end {
@@ -441,7 +441,7 @@ h6 {
 #hero .carousel-indicators li.active {
   opacity: 1;
   background: #ff0000;
-}
+} */
 
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
