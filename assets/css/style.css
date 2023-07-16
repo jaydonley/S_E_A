@@ -380,7 +380,7 @@ h6 {
   transition-property: opacity;
   background-position: center top;
 }
-/* 
+
 #hero .carousel-inner .carousel-item,
 #hero .carousel-inner .active.carousel-item-start,
 #hero .carousel-inner .active.carousel-item-end {
@@ -441,7 +441,7 @@ h6 {
 #hero .carousel-indicators li.active {
   opacity: 1;
   background: #ff0000;
-} */
+}
 
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
@@ -683,6 +683,9 @@ section {
   background-position: center center;
   min-height: 400px;
   position: relative;
+  padding: 5px;
+  border: 7px solid #ff0000;
+  border-radius: 5px;
 }
 
 .why-us .accordion-list {
@@ -1826,3 +1829,6 @@ section {
   padding-left: 5rem;
 }
 
+#ILVideo{
+  border: 50px solid black;
+}
